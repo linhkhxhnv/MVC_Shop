@@ -1,0 +1,13 @@
+F:\Git\ShopMvc\Shop.Data\bin\Debug\Shop.Data.dll
+F:\Git\ShopMvc\Shop.Data\bin\Debug\Shop.Data.pdb
+F:\Git\ShopMvc\Shop.Data\bin\Debug\Shop.Common.dll
+F:\Git\ShopMvc\Shop.Data\bin\Debug\Shop.Common.pdb
+F:\Git\ShopMvc\Shop.Data\obj\Debug\Shop.Data.csprojResolveAssemblyReference.cache
+F:\Git\ShopMvc\Shop.Data\obj\Debug\Shop.Data.csproj.CoreCompileInputs.cache
+F:\Git\ShopMvc\Shop.Data\obj\Debug\Shop.Data.dll
+F:\Git\ShopMvc\Shop.Data\obj\Debug\Shop.Data.pdb
+F:\Git\ShopMvc\Shop.Data\bin\Debug\Shop.Data.dll.config
+F:\Git\ShopMvc\Shop.Data\bin\Debug\EntityFramework.dll
+F:\Git\ShopMvc\Shop.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Git\ShopMvc\Shop.Data\bin\Debug\EntityFramework.xml
+F:\Git\ShopMvc\Shop.Data\bin\Debug\EntityFramework.SqlServer.xml
