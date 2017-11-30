@@ -9,4 +9,3 @@ F:\Git\Source\Shop.Common\bin\Debug\Shop.Common.pdb
 F:\Git\Source\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
 F:\Git\Source\Shop.Common\obj\Debug\Shop.Common.dll
 F:\Git\Source\Shop.Common\obj\Debug\Shop.Common.pdb
-F:\Git\Source\Shop.Common\obj\Debug\Shop.Common.csprojResolveAssemblyReference.cache
