@@ -12,3 +12,17 @@ F:\Git\ShopMvc\Shop.Service\obj\Debug\Shop.Service.dll
 F:\Git\ShopMvc\Shop.Service\obj\Debug\Shop.Service.pdb
 F:\Git\ShopMvc\Shop.Service\bin\Debug\Shop.Data.dll.config
 F:\Git\ShopMvc\Shop.Service\bin\Debug\Shop.Model.dll.config
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Service.dll
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Service.pdb
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Common.dll
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Data.dll
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Model.dll
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Common.pdb
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Data.pdb
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Data.dll.config
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Model.pdb
+F:\Git\Source\Shop.Service\bin\Debug\Shop.Model.dll.config
+F:\Git\Source\Shop.Service\obj\Debug\Shop.Service.csprojResolveAssemblyReference.cache
+F:\Git\Source\Shop.Service\obj\Debug\Shop.Service.csproj.CoreCompileInputs.cache
+F:\Git\Source\Shop.Service\obj\Debug\Shop.Service.dll
+F:\Git\Source\Shop.Service\obj\Debug\Shop.Service.pdb
